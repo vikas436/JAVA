@@ -61,8 +61,6 @@ class OddEven {
                 }
                 sleep(5);
             }
-            // break condition
-            if(ind==buffer.size()) break;
         }
     }
 
@@ -81,8 +79,6 @@ class OddEven {
                 }
                 sleep(5);
             }
-            // break condition
-            if(ind==buffer.size()) break;
         }
     }
 
